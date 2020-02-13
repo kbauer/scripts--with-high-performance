@@ -7,7 +7,7 @@ if "%~1"=="" (
    echo    Once COMMAND is finished, switch back to Balanced.
    echo.
    echo    For the time being, doesn't support detecting if another
-   echo    process is being executed in this panner.
+   echo    process is being executed in this manner.
    echo.
    echo    If you need other power plans than the "balanced"
    echo    and "high performance" plans, change the UIDs in the 
